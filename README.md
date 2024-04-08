@@ -37,13 +37,13 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
 
     Select java 8 language
     
-    Than Copy and Past Request and Respons To Verify Cartifiact
+    Than Copy and Past Request and Respons To Verify Certificate
 
     Setup Proxy By " Foxy Proxy "
 
-    Verify Cartificate to use proxy 
+    Verify Certificate to use proxy 
 
-# Scren Short 
+# Screen Short 
 
 
 
