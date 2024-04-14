@@ -8,7 +8,7 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
 # Installing Burpsuite Pro
 
 # Step 1:-
-    Before Copy This Link chose your arch and Past in Browser 
+    Before Copy This Link choose your arch and Past in Browser 
 
     Direct Downloade For 32 Bit Arch
 
@@ -27,7 +27,7 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
 
     cd Burpsuite-Pro
      
-    Past Downlaode File In This Dirtory ( openlogic-openjdk-8u392-b08-linux-x64-deb.deb )
+    Past Downlaode File In This Dirtory Burpsuite-Pro ( openlogic-openjdk-8u392-b08-linux-x64-deb.deb )
     
     chmod +x setup.sh
     
