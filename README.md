@@ -23,7 +23,7 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
     
 # Step 2
 
-    git clone 
+    git clone https://github.com/Conscious-TechHub/Burpsuite-Pro.git
 
     cd Burpsuite-Pro
      
